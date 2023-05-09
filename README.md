@@ -1,6 +1,6 @@
 ![logo](https://github.com/younes-bobouch1/younes-bobouch1/blob/main/cyber.jpg)
 <h1 align="center">🌟GitHub : Younes BOBOUCH🌟</h1>
-<h3 align="center">Étudiant en école de cyber sécurité 💻</h3>
+<h3 align="center">💻 Étudiant en école de cyber sécurité à La Plateforme 💻</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=younes-bobouch1&label=Profile%20views&color=0e75b6&style=flat" alt="younes-bobouch1" /> </p>
 
@@ -17,3 +17,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=younes-bobouch1&show_icons=true&locale=en" alt="younes-bobouch1" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=younes-bobouch1&" alt="younes-bobouch1" /></p>
+
