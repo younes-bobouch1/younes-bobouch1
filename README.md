@@ -6,7 +6,7 @@
 
 <h3 align="left">Contact :</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/younes-bobouch-b62351275/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/younes-bobouch-b62351275/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/younes-bobouch-b62351275/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/younes-bobouch-b62351275/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Langages et Outils :</h3>
